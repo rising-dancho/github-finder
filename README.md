@@ -8,7 +8,7 @@ npm install
 
 ### Run Vite Frontend
 
-React will run on http://localhost:3000
+React will run on http://localhost:5173
 
 ```bash
 npm run dev
