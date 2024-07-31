@@ -19,3 +19,8 @@ npm run dev
 ```bash
 npm run build
 ```
+
+### Build for Production
+```
+npm run build](https://github-finder-one-rho.vercel.app/
+```
