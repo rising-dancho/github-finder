@@ -20,7 +20,7 @@ npm run dev
 npm run build
 ```
 
-### Build for Production
+### Demo
 ```
-npm run build](https://github-finder-one-rho.vercel.app/
+https://github-finder-one-rho.vercel.app/
 ```
