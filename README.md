@@ -21,6 +21,5 @@ npm run build
 ```
 
 ### Demo
-```
 https://github-finder-one-rho.vercel.app/
-```
+
