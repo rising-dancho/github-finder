@@ -21,5 +21,5 @@ npm run build
 ```
 
 ### Demo
-https://vercel.com/risingdanchos-projects/github-finder
+[https://vercel.com/risingdanchos-projects/github-finder](https://contact-keeper-f1sp15qh4-risingdanchos-projects.vercel.app/)
 
